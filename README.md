@@ -1,33 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=260&section=header&text=Zevox&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20%26amp%3B%20Systems%20Administrator%20•%20Cybersecurity%20•%20Infrastructure&descAlignY=60"/>
+# ⚡ Z E V O X
+
+### Network Administrator • Systems Administrator • Cybersecurity • Infrastructure Engineer
+
+<img src="https://zevox.ovh/assets/logo-3ys0fQk0.png" width="140"/>
 
 <br>
 
-<img src="https://paxcia.net/logo.png" width="140"/>
-
-# ⚡ Zevox
-
-### Network & Systems Administrator • Cybersecurity • Developer
+[![Website](https://img.shields.io/badge/Website-zevox.ovh-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zevox.ovh)
+[![Paxcia](https://img.shields.io/badge/Paxcia-Association-0f172a?style=for-the-badge)](https://paxcia.net)
+[![Nebula](https://img.shields.io/badge/NebulaProxy-Infrastructure-111827?style=for-the-badge)](https://nebula-app.dev)
 
 </div>
 
 ---
 
-# 👨‍💻 À propos de moi
+# 👨‍💻 About Me
 
-Passionné par :
-- l'administration systèmes & réseaux
-- la cybersécurité
-- l'infrastructure Linux
-- le développement web & backend
-- les architectures haute disponibilité
+Passionate about:
+- Network engineering
+- Linux infrastructure
+- Cybersecurity
+- High availability systems
+- Virtualization
+- Monitoring
+- Web development
+- Infrastructure automation
 
-Je développe également des projets orientés infrastructure, proxy et services réseau.
+I work on infrastructure-oriented projects involving:
+- networking
+- proxy systems
+- Docker environments
+- system administration
+- security hardening
+- scalable services
 
 ---
 
-# 🚀 Projets Principaux
+# 🚀 Main Projects
+
+---
 
 ## 🌌 NebulaProxy
 
@@ -35,18 +48,20 @@ Je développe également des projets orientés infrastructure, proxy et services
 <img src="https://nebula-app.dev/nebula-white.svg" width="120"/>
 </div>
 
-Infrastructure proxy moderne et scalable.
+Modern scalable proxy infrastructure project.
 
-### 🔗 Liens
-- 🌍 Site : https://nebula-app.dev
-- 💻 GitHub : https://github.com/Zevoxsh/Nebulaproxy
+### Features
+- Proxy architecture
+- Tunneling systems
+- Infrastructure security
+- Docker deployment
+- Network filtering
+- Reverse proxy stack
+- High availability concepts
 
-### ⚡ Fonctionnalités
-- Proxy infrastructure
-- Réseau & tunneling
-- Sécurité & filtrage
-- Infrastructure scalable
-- Déploiement Docker
+### Links
+- 🌍 https://nebula-app.dev
+- 💻 https://github.com/Zevoxsh/Nebulaproxy
 
 ---
 
@@ -56,86 +71,160 @@ Infrastructure proxy moderne et scalable.
 <img src="https://paxcia.net/logo.png" width="120"/>
 </div>
 
-Association créée pour accompagner :
-- entreprises
-- événements
-- infrastructures réseaux
-- développement
-- solutions techniques
-- communautés gaming
+Association created to help:
+- businesses
+- communities
+- gaming projects
+- network infrastructures
+- development projects
+- event management
+- technical support
 
-### 🌍 Site
-https://paxcia.net
+### Legacy Minecraft Network
+```txt
+mc.paxcia.net
+```
 
-### 🎮 Minecraft Legacy
-- mc.paxcia.net
-- Mini-games époque PS3
+Mini-games network from the PS3 Minecraft era.
 
 ---
 
-# 🛠️ Stack Technique
+# 💻 Development
 
 <div align="center">
 
-## 💻 Développement
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,php,java,cs"/>
-
-## 🖥️ Systèmes
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows,docker"/>
-
-## 📦 Virtualisation
-
-<img src="https://skillicons.dev/icons?i=docker,vmware"/>
-
-## 🗄️ Bases de données
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+| Frontend | Backend | Languages |
+|---|---|---|
+| HTML5 | Node.js | JavaScript |
+| CSS3 | PHP | TypeScript |
+| React | Express.js | Python |
+| TailwindCSS | APIs | Java |
+| Bootstrap | Web Services | C# |
 
 </div>
 
 ---
 
-# 🌐 Réseau & Infrastructure
+# 🗄️ Databases
 
-```txt
-VLAN • OSPF • RIP • VPN • ACL • NAT/PAT • IPS • GRE
-```
+<div align="center">
 
-### 🛡️ Firewall & Sécurité
+| SQL | NoSQL |
+|---|---|
+| MySQL | MongoDB |
+| MariaDB | JSON Storage |
+
+</div>
+
+---
+
+# 🖥️ Systems Administration
+
+<div align="center">
+
+| Linux | Microsoft | Infrastructure |
+|---|---|---|
+| Ubuntu | Windows 10/11 | Docker |
+| Debian | Windows Server 2019 | Portainer |
+| Kali Linux | Windows Server 2022 | Virtualization |
+| Arch Linux | Windows Server 2025 | Monitoring |
+| Alpine Linux | Active Directory | HAProxy |
+| CentOS | PowerShell | DNS |
+| Rocky Linux | Group Policies | DHCP |
+| TrueNAS | RDP | SSH |
+
+</div>
+
+---
+
+# 📦 Virtualization & Infrastructure
+
+<div align="center">
+
+| Hypervisors | Containers | Storage |
+|---|---|---|
+| VMware ESXi | Docker | TrueNAS |
+| VMware Workstation | Portainer | NAS |
+| Proxmox VE | Containers | Backup Systems |
+| VirtualBox | Linux Services | Infrastructure Clusters |
+
+</div>
+
+---
+
+# 🌐 Networking
+
+<div align="center">
+
+| Routing | Security | Infrastructure |
+|---|---|---|
+| RIP | Firewall | VLAN |
+| OSPF | ACL | VPN |
+| Static Routing | IPS | NAT/PAT |
+| GRE Tunnel | pfSense | DNS |
+| Inter-VLAN | Cisco | DHCP |
+
+</div>
+
+---
+
+# 🔐 Cybersecurity
+
+### Areas of Interest
+- Network security
+- Linux hardening
+- Firewall management
+- Infrastructure protection
+- Threat monitoring
+- Secure architectures
+- Access control
+- Segmentation
+
+### Technologies
 - Cisco ASA / Firepower
 - Stormshield
 - pfSense
-- Hardening Linux
-- Monitoring & logs
+- VPN infrastructure
+- Reverse proxies
+- Monitoring systems
 
-### ⚙️ Services
-- DNS
-- DHCP
-- SSH
-- Samba
-- HAProxy
-- Portainer
-- Nextcloud
-- Grafana
-- Pi-hole
+---
+
+# 🛠️ Services & Tools
+
+<div align="center">
+
+| Monitoring | Hosting | Services |
+|---|---|---|
+| Grafana | Nginx | SSH |
+| Portainer | Apache | Samba |
+| Pi-hole | Web Servers | DNS |
+| Logs | Reverse Proxy | DHCP |
+| Metrics | Docker | File Sharing |
+| Dashboards | HAProxy | Cloud Services |
+
+</div>
 
 ---
 
 # 🏆 Certifications
 
-- ANSSI SecNumAcad
-- Ethical Hacker
-- Linux Unhatched
-- JavaScript Essentials
-- Gestion des Cybermenaces
-- Introduction à la cybersécurité
-- RGPD & Protection des données
+| Certification | Year |
+|---|---|
+| ANSSI SecNumAcad | 2023 |
+| Ethical Hacker | 2024 |
+| Linux Unhatched | 2025 |
+| JavaScript Essentials 1 | 2024 |
+| Introduction à la cybersécurité | 2024 |
+| Gestion des Cybermenaces | 2024 |
+| Operating Systems Basics | 2024 |
+| Introduction à l'IoT | 2024 |
+| Notions de base sur les réseaux | 2024 |
+| RGPD & Protection des données | 2026 |
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -149,24 +238,28 @@ VLAN • OSPF • RIP • VPN • ACL • NAT/PAT • IPS • GRE
 
 ---
 
-# 🧠 Veille Technologique
+# 📚 Technology Watch
 
-Je réalise une veille active sur :
-- cybersécurité
-- infrastructures critiques
-- firewall NGFW
-- Linux & réseaux
-- virtualisation
-- Docker & orchestration
+Active monitoring on:
+- Cybersecurity
+- Infrastructure security
+- Enterprise firewalls
+- Cisco technologies
+- Stormshield ecosystem
+- Linux ecosystems
+- Docker & virtualization
+- Infrastructure monitoring
 
 ---
 
-# 🌍 Contact
+# 🌍 Contact & Platforms
 
 <div align="center">
 
-🌐 https://zevox.ovh  
-🛡️ https://paxcia.net  
+🌐 https://zevox.ovh
+
+🛡️ https://paxcia.net
+
 🚀 https://nebula-app.dev
 
 </div>
@@ -175,6 +268,6 @@ Je réalise une veille active sur :
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=140&section=footer"/>
+### ⚡ Infrastructure • Networking • Security • Development ⚡
 
 </div>

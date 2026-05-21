@@ -1,122 +1,180 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Zevox&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20%26%20Systems%20Administrator%20•%20Cybersecurity%20•%20Developer&descAlignY=60"/>
+<div align="center">
 
-# 👋 Salut, moi c'est Zevox
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=260&section=header&text=Zevox&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20%26amp%3B%20Systems%20Administrator%20•%20Cybersecurity%20•%20Infrastructure&descAlignY=60"/>
 
-💻 Administrateur Réseau & Systèmes  
-🔐 Passionné par la cybersécurité, l'infrastructure et le développement  
-🌍 France  
-🚀 Créateur de NebulaProxy
+<br>
 
----
+<img src="https://paxcia.net/logo.png" width="140"/>
 
-## 🌐 Mes projets
+# ⚡ Zevox
 
-### 🚀 NebulaProxy
-Infrastructure proxy & réseau moderne.
+### Network & Systems Administrator • Cybersecurity • Developer
 
-🔗 Site : https://nebula-app.dev  
-🔗 GitHub : https://github.com/Zevoxsh/Nebulaproxy
+</div>
 
 ---
 
-## 🛠️ Stack Technique
+# 👨‍💻 À propos de moi
 
-### 💻 Développement
+Passionné par :
+- l'administration systèmes & réseaux
+- la cybersécurité
+- l'infrastructure Linux
+- le développement web & backend
+- les architectures haute disponibilité
 
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
-![CSharp](https://img.shields.io/badge/CSharp-111827?style=for-the-badge&logo=csharp)
+Je développe également des projets orientés infrastructure, proxy et services réseau.
 
 ---
 
-### 🖥️ Systèmes & Virtualisation
+# 🚀 Projets Principaux
 
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu)
-![Debian](https://img.shields.io/badge/Debian-111827?style=for-the-badge&logo=debian)
-![Arch Linux](https://img.shields.io/badge/Arch-111827?style=for-the-badge&logo=archlinux)
-![Kali Linux](https://img.shields.io/badge/Kali-111827?style=for-the-badge&logo=kalilinux)
-![Windows Server](https://img.shields.io/badge/Windows_Server-111827?style=for-the-badge&logo=windows)
+## 🌌 NebulaProxy
 
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![Proxmox](https://img.shields.io/badge/Proxmox-111827?style=for-the-badge&logo=proxmox)
-![VMware](https://img.shields.io/badge/VMware-111827?style=for-the-badge&logo=vmware)
+<div align="center">
+<img src="https://nebula-app.dev/nebula-white.svg" width="120"/>
+</div>
+
+Infrastructure proxy moderne et scalable.
+
+### 🔗 Liens
+- 🌍 Site : https://nebula-app.dev
+- 💻 GitHub : https://github.com/Zevoxsh/Nebulaproxy
+
+### ⚡ Fonctionnalités
+- Proxy infrastructure
+- Réseau & tunneling
+- Sécurité & filtrage
+- Infrastructure scalable
+- Déploiement Docker
 
 ---
 
-### 🌐 Réseau & Cybersécurité
+## 🛡️ Paxcia
 
-![Cisco](https://img.shields.io/badge/Cisco-111827?style=for-the-badge&logo=cisco)
-![pfSense](https://img.shields.io/badge/pfSense-111827?style=for-the-badge&logo=pfsense)
-![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana)
-![HAProxy](https://img.shields.io/badge/HAProxy-111827?style=for-the-badge&logo=haproxy)
+<div align="center">
+<img src="https://paxcia.net/logo.png" width="120"/>
+</div>
+
+Association créée pour accompagner :
+- entreprises
+- événements
+- infrastructures réseaux
+- développement
+- solutions techniques
+- communautés gaming
+
+### 🌍 Site
+https://paxcia.net
+
+### 🎮 Minecraft Legacy
+- mc.paxcia.net
+- Mini-games époque PS3
+
+---
+
+# 🛠️ Stack Technique
+
+<div align="center">
+
+## 💻 Développement
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,php,java,cs"/>
+
+## 🖥️ Systèmes
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows,docker"/>
+
+## 📦 Virtualisation
+
+<img src="https://skillicons.dev/icons?i=docker,vmware"/>
+
+## 🗄️ Bases de données
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</div>
+
+---
+
+# 🌐 Réseau & Infrastructure
 
 ```txt
-VLAN • OSPF • RIP • VPN • ACL • NAT/PAT • IPS • GRE Tunnel
+VLAN • OSPF • RIP • VPN • ACL • NAT/PAT • IPS • GRE
 ```
+
+### 🛡️ Firewall & Sécurité
+- Cisco ASA / Firepower
+- Stormshield
+- pfSense
+- Hardening Linux
+- Monitoring & logs
+
+### ⚙️ Services
+- DNS
+- DHCP
+- SSH
+- Samba
+- HAProxy
+- Portainer
+- Nextcloud
+- Grafana
+- Pi-hole
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 - ANSSI SecNumAcad
 - Ethical Hacker
 - Linux Unhatched
-- JavaScript Essentials 1
-- Introduction à la cybersécurité
+- JavaScript Essentials
 - Gestion des Cybermenaces
+- Introduction à la cybersécurité
 - RGPD & Protection des données
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zevox&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevox&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zevox&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Streak](https://streak-stats.demolab.com?user=zevox&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevox&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<img width="75%" src="https://streak-stats.demolab.com?user=zevox&theme=tokyonight&hide_border=true"/>
 
-## 📡 Infrastructure & Services
-
-- Docker
-- Portainer
-- Nextcloud
-- Pi-hole
-- Grafana
-- DNS / DHCP
-- SSH
-- Samba
-- Serveurs Web
-- Monitoring
+</div>
 
 ---
 
-## 📚 Veille Technologique
+# 🧠 Veille Technologique
 
-🛡️ Intérêt particulier pour :
-- Firewall nouvelle génération
-- Cisco ASA / Firepower
-- Stormshield
-- Sécurité réseau
-- Infrastructure critique
-- Hardening Linux
-
----
-
-## 🌍 Contact
-
-🌐 Site : https://zevox.ovh  
-🚀 Projet : https://nebula-app.dev
+Je réalise une veille active sur :
+- cybersécurité
+- infrastructures critiques
+- firewall NGFW
+- Linux & réseaux
+- virtualisation
+- Docker & orchestration
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+# 🌍 Contact
+
+<div align="center">
+
+🌐 https://zevox.ovh  
+🛡️ https://paxcia.net  
+🚀 https://nebula-app.dev
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=140&section=footer"/>
+
+</div>
